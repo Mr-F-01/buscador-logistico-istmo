@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": {"name":"CIIT"}, "geometry": {
+      "type": "LineString",
+      "coordinates": [[-95.1990,16.1770],[-95.0775,17.8506],[-94.4370,18.1384]]
+    }},
+    { "type": "Feature", "properties": {"name":"Hacia Veracruz/Puebla"}, "geometry": {
+      "type": "LineString",
+      "coordinates": [[-94.4370,18.1384],[-96.1333,19.1933],[-98.2019,19.0433]]
+    }},
+    { "type": "Feature", "properties": {"name":"Eje Norte"}, "geometry": {
+      "type": "LineString",
+      "coordinates": [[-98.2019,19.0433],[-100.3899,20.5888],[-100.3161,25.6866],[-99.5164,27.4763]]
+    }},
+    { "type": "Feature", "properties": {"name":"Pacífico Norte"}, "geometry": {
+      "type": "LineString",
+      "coordinates": [[-100.3899,20.5888],[-117.0382,32.5149]]
+    }}
+  ]
+}
